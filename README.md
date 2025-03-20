@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - https://drive.google.com/drive/folders/1aMWzjMDf9Gv-nbh4aJBtAUpKjPMfL2mI
-<!---
+<!---[PGIS Manual (E-next.in)_compressed.pdf](https://github.com/user-attachments/files/19360579/PGIS.Manual.E-next.in._compressed.pdf)
+
 Tolanicollege9191/Tolanicollege9191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
